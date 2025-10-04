@@ -2,13 +2,6 @@
 
 Este projeto faz parte do laboratório da DIO sobre os benefícios da nuvem, com foco na criação de máquinas virtuais no Microsoft Azure.
 
-## 🧠 Objetivo
-
-Aplicar na prática os conhecimentos adquiridos sobre máquinas virtuais, utilizando o portal da Azure para criar uma VM Windows Server 2022 e documentar todo o processo.
-
-
-## 🛠️ Etapas Realizadas
-
 ### 1. Acesso ao Portal
 - Acesse o [portal da Azure](https://portal.azure.com) com sua conta.
 
@@ -35,15 +28,11 @@ Aplicar na prática os conhecimentos adquiridos sobre máquinas virtuais, utiliz
 - Clique em **"Examinar + Criar"**
 - Após validação, clique em **"Criar"**
 
----
-
 ## 🔗 Conexão com a VM
 
 - Vá até a VM criada e clique em **"Conectar > RDP"**
 - Baixe o arquivo `.rdp` e abra no seu computador
 - Use o usuário e senha configurados para acessar
-
----
 
 ## 🌐 Instalação do IIS (Servidor Web)
 
