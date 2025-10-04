@@ -13,7 +13,7 @@ Este projeto faz parte do laboratório da DIO sobre os benefícios da nuvem, com
 - **Nome da VM**: `myVM`
 - **Imagem**: `Windows Server 2022 Datacenter: Azure Edition - x64 Gen 2`
 - **Região**: `Brazil South`
-- **Tamanho**: `16`
+- **Tamanho**: `16GB`
 
 ### 4. Conta de Administrador
 - **Usuário**: `azureuser`
